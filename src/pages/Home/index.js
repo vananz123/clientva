@@ -17,7 +17,7 @@ const Home =()=> {
         <div className="container-fluid">
             <div className="">
                 <div className="row border" >
-                    <div class="col-4" style={{backgroundColor:"indigo"}}>
+                    <div className="col-4" style={{backgroundColor:"indigo"}}>
                         <p className="mt-4 fs-3 text-white">VA để sang hơn !</p>
                         <p className="text-white text-left">
                         Happy Women's Day. Nhân ngày đặc biệt này VA mang đến rất nhiều CTKM hấp dẫn gửi tặng bạn. Hãy đến và trải nghiệm để mua những món đồ trang sức dành cho người phụ nữ bạn yêu thương!!
